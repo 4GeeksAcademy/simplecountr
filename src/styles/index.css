@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.clock,.number {
+    font-size: 180px;
+    padding: 20px;
+    border:1px solid;
+}
